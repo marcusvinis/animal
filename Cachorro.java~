@@ -4,11 +4,11 @@
 public class Cachorro extends Animal {
  
     public void mover() {
-        System.out.println("Catchurro anda com quatro patas");
+        System.out.println("Animais podem se mover");
     }
 
     public void som() {
-        System.out.println("Catchurro late");
+        System.out.println("Animais emitem som");
     }
   
 }
